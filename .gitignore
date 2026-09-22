@@ -1,0 +1,8 @@
+.env
+data/
+daily/
+factors/
+etf/
+venv/
+*.log
+__pycache__/
